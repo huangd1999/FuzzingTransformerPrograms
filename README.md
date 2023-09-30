@@ -25,3 +25,4 @@ python ./execute/trace_*(e.g., sort).py
 ## RQ3.
 RQ3 can obtained by specify the run.py's hyper-parameters, i.e., pretrain and pretrain_dataset_path
 we will add more details in the future.
+
