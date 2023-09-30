@@ -10,7 +10,7 @@ Directly train the model and convert it into program representation.
 
 Just run: 
 ```
-run run.sh
+bash run.sh
 ```
 
 ### Similarity
